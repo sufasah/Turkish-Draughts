@@ -31,8 +31,10 @@ A simple Turkish checkers game. A menu meets you when it is executed. In menu, n
 
 ### Screenshots
 ---
+### Menu
+![Menu](images/0.png)
 
-### Menu Page 
-![Menu](images/1.png)
+### Game Board
+![Game Board](images/1.png)
 
 
